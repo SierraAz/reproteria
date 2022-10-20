@@ -1,0 +1,9 @@
+C:\Users\azael\source\repos\ProyectoReporteria\CapaControladorReporteria\bin\Debug\CapaControladorReporteria.dll
+C:\Users\azael\source\repos\ProyectoReporteria\CapaControladorReporteria\bin\Debug\CapaControladorReporteria.pdb
+C:\Users\azael\source\repos\ProyectoReporteria\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.AssemblyReference.cache
+C:\Users\azael\source\repos\ProyectoReporteria\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.CoreCompileInputs.cache
+C:\Users\azael\source\repos\ProyectoReporteria\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.dll
+C:\Users\azael\source\repos\ProyectoReporteria\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.pdb
+C:\Users\azael\source\repos\ProyectoReporteria\CapaControladorReporteria\bin\Debug\CapaModeloReporteria.dll
+C:\Users\azael\source\repos\ProyectoReporteria\CapaControladorReporteria\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\azael\source\repos\ProyectoReporteria\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.CopyComplete

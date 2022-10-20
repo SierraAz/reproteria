@@ -1,0 +1,6 @@
+C:\Users\azael\source\repos\ProyectoReporteria\CapaModeloReporteria\bin\Debug\CapaModeloReporteria.dll
+C:\Users\azael\source\repos\ProyectoReporteria\CapaModeloReporteria\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\azael\source\repos\ProyectoReporteria\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.csproj.AssemblyReference.cache
+C:\Users\azael\source\repos\ProyectoReporteria\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.csproj.CoreCompileInputs.cache
+C:\Users\azael\source\repos\ProyectoReporteria\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.dll
+C:\Users\azael\source\repos\ProyectoReporteria\CapaModeloReporteria\obj\Debug\CapaModeloReporteria.pdb
