@@ -13,7 +13,7 @@ namespace CapaVistaReporteria
 {
     public partial class Inicio : Form
     {
-        string connectionString = @"Server=localhost;Database=registro_reporteria;Uid=root;Pwd=root;";
+        string connectionString = @"Server=colchoneria.mysql.database.azure.com;Database=colchoneria;Uid=administrador;Pwd=Jm123456;";
         int idregistro =0;
         public Inicio()
         {
@@ -100,7 +100,7 @@ namespace CapaVistaReporteria
         {
             using (MySqlConnection mysqlCon = new MySqlConnection(connectionString))
             {
-                string deleteQuery = "DELETE FROM registro_reporteria.registro WHERE idregistro = " + textBox3.Text;
+                string deleteQuery = "DELETE FROM colchoneria.registro WHERE idregistro = " + textBox3.Text;
                 mysqlCon.Open();
                 MySqlCommand mySqlCmd = new MySqlCommand(deleteQuery, mysqlCon);
                 mySqlCmd.ExecuteNonQuery();

@@ -169,9 +169,13 @@ namespace CapaVistaReporteria
             // 
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
-            "5001",
-            "6001",
-            "7001"});
+            "1000",
+            "2000",
+            "3000",
+            "5000",
+            "6000",
+            "7000",
+            "8000"});
             this.comboBox1.Location = new System.Drawing.Point(401, 115);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(85, 21);

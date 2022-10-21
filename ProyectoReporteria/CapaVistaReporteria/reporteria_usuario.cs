@@ -13,7 +13,7 @@ namespace CapaVistaReporteria
 {
     public partial class reporteria_usuario : Form
     {
-        string connectionString = @"Server=localhost;Database=registro_reporteria;Uid=root;Pwd=root;";
+        string connectionString = @"Server=colchoneria.mysql.database.azure.com;Database=colchoneria;Uid=administrador;Pwd=Jm123456;";
         int idregistro = 0;
         public reporteria_usuario()
         {
